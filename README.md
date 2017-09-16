@@ -19,7 +19,7 @@ ninjaripper 这个神器 就不多说了，可以在游戏中直接抓取模型�
         收集贴图
         自动把在ninjaripper 提取出来的贴图中正确的从rip模型目录复制到当前操作的MAX保存目录下。
 
-正常使用流程：
+        正常使用流程：
         选用Group d导入模式，INput Dir 填上导入路径，RIP File Nums 填序列，如： 0-50  ，即导入 前50个RIP模型文件。
         UV Coord 一般都是 U3 V4 ，你可以慢慢测试这个参数。
         导入成功后，点 1:NO UV 删除。
